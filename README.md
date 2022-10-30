@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/6z9ErBGef7CazSVJ6)](https://rishavchanda.io)
+[![MasterHead](https://eoladigital.com/wp-content/uploads/2022/03/website.gif)](https://om278.io)
 <h1 align="center">Hi 👋, I'm Omkant Shende</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
